@@ -1,0 +1,20 @@
+th{font-size: 30px;}
+#b1{background-color: rgb(9,20,60);}
+#b2{background-color: rgb(218,104,15);}
+#b3{background-color: rgb(255,255,255);}
+#bu1{background-color: rgb(177,178,190);}
+#bu2{background-color: rgb(255,0,0);}
+#Length{border-right-width: 2px;border-right-style: solid;}
+#Width{border-right-width: 2px;border-right-style: solid;}
+h1{font-family: Castellar;text-decoration: underline;border-left-color: rgb(17,30,108);border-top-color: rgb(17,30,108);
+border-style: dotted;border-bottom-color: white;border-right-color: white;border-width: 10px;}
+body{background-color: grey}
+#img1{scroll-behavior: smooth;}
+td{font-size: 20px;}
+#marquee{direction: left;}
+.slider1{width:50%;margin: 50px auto;}
+.btn{border:none;outline: none;background: black;padding: 10px 30px;color: white;margin: 10px auto;}
+.btn:hover{background: red;}
+#si{border-color: black;border-width: 5px;border-style: double;}
+p{background: black;color: white;font-size: 35px;}
+input{width: 120px;height: 45px;font-size: 20px;}
